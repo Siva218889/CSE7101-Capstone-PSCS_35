@@ -1,1 +1,7 @@
-
+Flask
+pytesseract
+Pillow
+googletrans==4.0.0-rc1 # Need a specific version as the latest stable might have issues
+nltk
+pandas
+numpy
