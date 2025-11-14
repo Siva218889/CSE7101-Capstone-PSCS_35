@@ -1,1 +1,41 @@
+# -------------------------
+# Python environment ignore
+# -------------------------
+venv/
+.env
+pyvenv.cfg
+*.pyc
+__pycache__/
+.vscode/
+
+# -------------------------
+# Tesseract traineddata
+# (Do NOT upload large files)
+# -------------------------
+tessdata/
+*.traineddata
+
+# -------------------------
+# Uploads folder (user uploads)
+# -------------------------
+uploads/
+
+# -------------------------
+# OS / temporary files
+# -------------------------
+Thumbs.db
+.DS_Store
+
+# -------------------------
+# Flask / cache
+# -------------------------
+instance/
+*.log
+
+# -------------------------
+# Optional: ignore doc files 
+# (Remove # if you DO NOT want .docx on GitHub)
+# -------------------------
+# *.docx
+# *.pdf
 
