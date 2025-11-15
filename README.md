@@ -26,6 +26,7 @@ Sentiment analysis: NLTK/TextBlob or VADER
 OCR: pytesseract
 Database: SQLite or MongoDB
 Dashboard: Streamlit or simple web UI
+
 Timeline (First 8 Weeks)
 Weeks 1–2: Literature survey, requirement gathering
 Week 3: Tech stack setup, sample demos (OCR/sentiment)
@@ -33,13 +34,17 @@ Week 4–5: Data collection (sample news/articles/images)
 Week 6: Initial web scraper, continue data prep
 Week 7: Prototype dashboard wireframe
 Week 8: Review-1 submission
+
 How to Run Demos
 Ensure you have Python 3.x and install dependencies from requirements.txt
 For OCR demo: Run python src/ocr_demo.py to extract text from data/sample_news.png
 For sentiment demo: Run python src/sentiment_demo.py to analyze sentiment in data/sample_news.txt
+
 Team
 Student A (Roll No): Web scraping, Sentiment
 Student B (Roll No): OCR, Database
 Student C (Roll No): Dashboard, Documentation
+
 References
+
 See references.txt
